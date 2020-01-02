@@ -1,5 +1,8 @@
 _repo: With-Axe-and-Rope-in-the-New-Zealand-Alps_60919
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60919-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Mannering, George Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51188
     wikipedia: https://en.wikipedia.org/wiki/George_Edward_Mannering
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60919#With-Axe-and-Rope-in-the-New-Zealand-Alps
 gutenberg_issued: '2019-12-14'
 gutenberg_type: Text
 identifiers:

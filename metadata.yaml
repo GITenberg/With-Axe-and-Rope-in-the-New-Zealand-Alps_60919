@@ -1,0 +1,27 @@
+_repo: With-Axe-and-Rope-in-the-New-Zealand-Alps_60919
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mannering, George Edward
+    birthdate: 1862
+    deathdate: 1947
+    gutenberg_agent_id: '51188'
+    url: http://www.gutenberg.org/2009/agents/51188
+    wikipedia: https://en.wikipedia.org/wiki/George_Edward_Mannering
+description: ''
+gutenberg_issued: '2019-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60919'
+  lccn: '03022751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Zealand -- Description and travel'
+- !lcc 'DU'
+- !lcsh 'Mountaineering'
+- GITenberg
+title: With Axe and Rope in the New Zealand Alps
+url: http://www.gutenberg.org/ebooks/60919
